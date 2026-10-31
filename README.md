@@ -6,6 +6,8 @@
 
 Abrir el archivo .slnx
 
+Hay un documento PDF con las Tabla de pruebas que se esperan al ingresar unos datos
+
 
 ### Informe del Proyecto
 
