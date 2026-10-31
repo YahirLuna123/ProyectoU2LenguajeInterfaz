@@ -1,5 +1,6 @@
 # Sistema de Ventas e Inventario – Game Store (Unidad 2)
 * **Materia:** Lenguajes de Interfaz
+* **Horario:** 10:00-11:00
 * **Alumno:** Yahir Luna Beltrán
 * **Docente:** Dr. José Luis Medina Jiménez
 
