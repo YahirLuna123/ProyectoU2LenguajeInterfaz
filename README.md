@@ -4,6 +4,8 @@
 * **Alumno:** Yahir Luna Beltrán
 * **Docente:** Dr. José Luis Medina Jiménez
 
+Abrir el archivo .slnx
+
 
 ### Informe del Proyecto
 
